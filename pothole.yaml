@@ -1,0 +1,8 @@
+path: C:/Users/jchen/Downloads/FinalProject/dataset
+train: images/train
+val: images/val
+
+names:
+  0: medium_pothole
+  1: minor_pothole
+  2: major_pothole
